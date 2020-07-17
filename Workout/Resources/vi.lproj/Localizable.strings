@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  Workout
+
+  Created by ntq on 7/10/20.
+  Copyright © 2020 Duy Dang. All rights reserved.
+*/
+
+// MARK: - Error
+
+"success" = "Hoàn thành";
+"network_failed" = "Không có kết nối mạng";
+"invalid_data_format" = "Định dạng dữ liệu không hợp lệ";
+"email_or_password_incorrect" = "Sai email hoặc mật khẩu";
+"error_something_went_wrong" = "Có một lỗi nào đó xảy ra";
+"error_block_user" = "Tài khoản của bạn đã bị tạm khóa";
+"error_request_time_out" = "Vui lòng thử lại";
+"error_empty_response" = "Không có kết quả trả về";
+"error_unauthenticated" = "Không xác thực";
+"error_undefined_error" = "Lỗi không xác định";
+
+// MARK: - Language
+
+"english_title" = "Tiếng Anh";
+"vietnamese_title" = "Tiếng Việt";
+"chinese_title" = "Tiếng Trung";
+
+// MARK: - User
+
+"profile_male" = "Nam";
+"profile_female" = "Nữ";
+"profile_other" = "Khác";
+
+"title_Ok" = "Đồng ý";
+"error_generic" = "Error Generic";
+
+// MARK: - Screen
+"screen_home"  =  "Trang chủ";

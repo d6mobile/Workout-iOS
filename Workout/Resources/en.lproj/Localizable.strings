@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  Workout
+
+  Created by ntq on 7/10/20.
+  Copyright © 2020 Duy Dang. All rights reserved.
+*/
+
+// MARK: - Error
+
+"success" = "success";
+"error_network_failed" = "No internet connection";
+"error_invalid_data_format" = "Invalid Data Format";
+"error_email_or_password_incorrect" = "Email or password incorrect";
+"error_something_went_wrong" = "Some thing went wrong";
+"error_block_user" = "Your account has been suspended";
+"error_request_time_out" = "Request Time out";
+"error_empty_response" = "Empty Response";
+"error_unauthenticated" = "Unauthenticated";
+"error_undefined_error" = "Undefined Error";
+
+// MARK: - Language
+
+"english_title" = "English";
+"vietnamese_title" = "Vietnamese";
+"chinese_title" = "Chinese";
+
+// MARK: - User
+
+"profile_male" = "Male";
+"profile_female" = "Female";
+"profile_other" = "Other";
+
+"title_Ok" = "OK";
+"error_generic" = "Error Generic";
+
+// MARK: - Screen
+"screen_home"  =  "Home";
+

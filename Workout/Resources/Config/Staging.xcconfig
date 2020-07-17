@@ -1,0 +1,15 @@
+//
+//  Staging.xcconfig
+//  Workout
+//
+//  Created by ntq on 7/13/20.
+//  Copyright © 2020 Duy Dang. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+PRODUCT_NAME = Daily Workout (Dev)
+PRODUCT_BUNDLE_IDENTIFIER = com.d6mobile.workout
+
+API_PROTOCOL  = http
+API_SERVER = localhost/Workout/public/api
